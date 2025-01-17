@@ -10,3 +10,6 @@ Tecnologías y Librerías
 - **pandas**: Manipulación de datos.
 - **seaborn**: Visualización estadística.
 - **matplotlib**: Creación de gráficos.
+
+- ✅
+![logo](https://github.com/user-attachments/assets/18b53d49-e9a0-43ae-9899-f4ffe68577be)
