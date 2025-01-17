@@ -37,8 +37,11 @@ Descripción de las columnas del archivo:
 
 👉🏼 Tecnologías y Librerías
 🐍 Python: Base para el análisis de datos.
+
 🐼 pandas: Manipulación de datos.
+
 📊 seaborn: Visualización estadística.
+
 📉 matplotlib: Creación de gráficos.
 
 En el analisis intentaremos responder:
