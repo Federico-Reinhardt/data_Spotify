@@ -7,6 +7,32 @@
 
 Aqui pueden encontrar una explicación en el concepto de bailabilidad o danceability https://notebook.community/sonidosmutantes/apicultor/examples/Danzabilidad
 
+Descripción de las columnas del archivo:
+
+✨ Energy = Una medida de intensidad y actividad. Las pistas enérgicas suelen sonar rápidas, fuertes y ruidosas.
+
+✨ Tempo = La velocidad de una pista, medida en pulsaciones por minuto (BPM).
+
+✨ Danceability = Una puntuación que indica qué tan adecuada es una pista para bailar, según el tempo, la estabilidad del ritmo, la fuerza del ritmo y la regularidad general.
+
+✨ Loudness = Volumen general de una pista medido en decibeles (dB). Los valores más altos indican pistas más ruidosas.
+
+✨ Liveness = La probabilidad de que una canción se interprete en vivo. Los valores más altos sugieren una mayor presencia de público.
+
+✨ Valence = Medida de la positividad musical general (emoción) de una pista. Una valencia alta suena alegre, mientras que una valencia baja suena triste o enojada.
+
+✨ Speechiness = Una medida de la presencia de palabras habladas en una pista.
+
+✨ Instrumentalness = La probabilidad de que una pista no contenga voces. Los valores cercanos a 1,0 indican pistas puramente instrumentales.
+
+✨ Mode = Indica la modalidad de la pista (mayor o menor).
+
+✨ Key = La clave musical representada como un número entero de 0 a 11, correspondiente a la notación de la clase Pitch estándar.
+
+✨ Duration_ms = La duración de la pista en milisegundos.
+
+✨ Acousticness = Una medida de confianza que indica si una pista es acústica (1) o no (0).
+
 👉🏼 Tecnologías y Librerías
 - **Python**
 - **pandas**: Manipulación de datos.
