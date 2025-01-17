@@ -14,11 +14,17 @@ Aqui pueden encontrar una explicación en el concepto de bailabilidad o danceabi
 - **matplotlib**: Creación de gráficos.
 
 En el analisis intentaremos responder:
-✅ ¿Cuál es la duración promedio de las canciones por género de playlist?
-✅ ¿Cuál es la correlación entre las variables?
+
+✅ ¿Cuál es la duración promedio de las canciones por género de playlist?.
+
+✅ ¿Cuál es la correlación entre las variables?.
+
 ✅ Mapa de calor.
-✅ ¿Qué géneros tienen mayor bailabilidad promedio?
-✅ ¿Existe una relación entre bailabilidad y otras métricas como energía, tempo o valencia?
+
+✅ ¿Qué géneros tienen mayor bailabilidad promedio?.
+
+✅ ¿Existe una relación entre bailabilidad y otras métricas como energía, tempo o valencia?.
+
 ✅ Gráfico: Bailabilidad por Género.
 
  Te comparto el enlace para ver el análisis completo 
