@@ -7,7 +7,7 @@
 
 Aqui pueden encontrar una explicación en el concepto de bailabilidad o danceability https://notebook.community/sonidosmutantes/apicultor/examples/Danzabilidad
 
-El dataset fue extraigo de kaggle --> https://github.com/Federico-Reinhardt/data_Spotify/blob/main/high_popularity_spotify_data.csv
+El dataset fue extraido de kaggle --> https://github.com/Federico-Reinhardt/data_Spotify/blob/main/high_popularity_spotify_data.csv
 
 Descripción de las columnas del archivo:
 
