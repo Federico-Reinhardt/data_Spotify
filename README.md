@@ -12,4 +12,5 @@ Tecnologías y Librerías
 - **matplotlib**: Creación de gráficos.
 
 - ✅
-![logo](https://github.com/user-attachments/assets/18b53d49-e9a0-43ae-9899-f4ffe68577be)
+
+![logo](https://github.com/user-attachments/assets/bb51bb39-a6c0-4557-8896-10a13e060e0e)
