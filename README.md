@@ -58,4 +58,6 @@ En el analisis intentaremos responder:
 
 ✅ Gráfico: Bailabilidad por Género.
 
- Te comparto el enlace para ver el análisis completo https://github.com/Federico-Reinhardt/data_Spotify/blob/main/bailabilidad_data_Spotify.ipynb
+ Te comparto el enlace para ver el análisis completo 
+ 
+ https://github.com/Federico-Reinhardt/data_Spotify/blob/main/bailabilidad_data_Spotify.ipynb
