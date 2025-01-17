@@ -36,10 +36,10 @@ Descripción de las columnas del archivo:
 ✨ Acousticness = Una medida de confianza que indica si una pista es acústica (1) o no (0).
 
 👉🏼 Tecnologías y Librerías
-- **Python**
-- **pandas**: Manipulación de datos.
-- **seaborn**: Visualización estadística.
-- **matplotlib**: Creación de gráficos.
+🐍 Python: Base para el análisis de datos.
+🐼 pandas: Manipulación de datos.
+📊 seaborn: Visualización estadística.
+📉 matplotlib: Creación de gráficos.
 
 En el analisis intentaremos responder:
 
